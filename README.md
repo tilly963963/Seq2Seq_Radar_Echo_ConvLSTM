@@ -28,7 +28,6 @@ self.custom_criterion = MyMSELoss(self.weight)
 
 3. Train the model
 
-1. Set parameters 
 
 ```
 python -m convlstm_train.py
